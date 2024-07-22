@@ -1,6 +1,10 @@
 # K-Nearest Neighbors (k-NN) and Decision Tree Classification from Scratch
 
-This project implements and evaluates the k-NN and Decision Tree classification algorithms from scratch in Python. It's designed for educational purposes to deepen understanding of these fundamental machine learning techniques.
+
+This project implements and evaluates the k-NN and Decision Tree classification algorithms from scratch in Python.
+
+> [!NOTE]
+> **I have included a jupyter notebook in this repository (`knnAndDt.ipynb`) that contains the graphs and results of my models' performance.**
 
 ## Table of Contents
 
